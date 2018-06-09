@@ -38,6 +38,5 @@ int add (int a, int b){
 int main(int argc, char **argv) {
 	add(1,2);
 	sub(12,2);
-	printf("RTETE");
 }
 
